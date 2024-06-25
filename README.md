@@ -1,7 +1,7 @@
 # SaaS Website Builder
 
 ### Features in this application.
-- 🤯 Multivendor B2B2B Saas
+- 🔥 Multivendor B2B2B Saas
 - 🏢 Agency and Sub accounts
 - 🌐 Unlimited funnel hosting
 - 🚀 Full Website & Funnel builder
@@ -23,10 +23,3 @@
 - 🌙 Graphs and charts
 - ☀️ Light & Dark mode
 - 📄 Functioning landing page
-
-
-## Website with background grids
-[ibelick](https://bg.ibelick.com/)
-
-## Shadcn UI Theme creator
-[Link To Website](https://gradient.page/tools/shadcn-ui-theme-generator)
